@@ -3,7 +3,7 @@ This script adds support for WebGL 2.0 to your p5.js sketches. Therefore you are
 
 ## Usage
 Just add the script to your ```index.html``` like this:
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
